@@ -2,12 +2,12 @@
 I am an engineer based in Mexico <img src="https://flagcdn.com/w40/mx.png" alt="Mexico Flag" width="22" style="vertical-align: middle;" /> working toward becoming a professional **Data Scientist**. 
 
 My goal is to leverage my engineering background, combining analytical thinking, structured problem-solving, and statistical analysis to improve processes and drive strategic decisions.
-
+---
 ### 🔭 I'm currently focused on:
 - 🎓**Learning:** Enrolled in a Data Science bootcamp
 - ⚙️**Building:** Working through practical projects and code repositories as part of my coursework.
 - 🔎**Applying:** Leveraging data science techniques directly within my current engineering job to improve processes.
-
+---
 ### 🛠️ Skills:
 
    * **Languages & Libraries:**
