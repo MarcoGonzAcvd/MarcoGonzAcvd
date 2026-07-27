@@ -22,8 +22,8 @@ My goal is to leverage my engineering background, combining analytical thinking,
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 * **Machine Learning & Analytics Focus:**  
-- **Model Building & Evaluation:** Supervised Learning, Model Validation, Metric Tuning (Accuracy, Precision, Recall, F1-Score, ROC-AUC)
-- **Business Metrics:** Connecting machine learning outputs to core business metrics and strategic decision-making
+  - **Model Building & Evaluation:** Supervised Learning, Model Validation, Metric Tuning (Accuracy, Precision, Recall, F1-Score, ROC-AUC)
+  - **Business Metrics:** Connecting machine learning outputs to core business metrics and strategic decision-making
 
 * **Tools & Environment:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
