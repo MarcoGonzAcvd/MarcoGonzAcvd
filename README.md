@@ -1,5 +1,5 @@
 ## Hello there 👋
-I am an engineer based in Mexico :mexico: working toward becoming a professional **Data Scientist**. 
+I am an engineer based in Mexico <img src="https://flagcdn.com/w40/mx.png" alt="Mexico Flag" width="22" style="vertical-align: middle;" /> working toward becoming a professional **Data Scientist**. 
 
 My goal is to leverage my engineering background, combining analytical thinking, structured problem-solving, and statistical analysis to improve processes and drive strategic decisions.
 
